@@ -17,11 +17,18 @@
 - Home Office: 18%
 
 ## 3. Regional Analysis
+
+<img src="https://github.com/user-attachments/assets/d1f5e5ab-cacd-4d19-9021-2dcf30015c04" alt="Regional Analysis" height="200px">
+
+
 - West leads in shipment volume (32%).
 - South is lowest (16%).
 - Distribution is not even — ideal would be 25% each.
 
 ## 4. Product Category Insights
+
+<img src="https://github.com/user-attachments/assets/7fc6f65d-b93b-4c54-a5b7-4a194a9df5be" alt="Product Category Insights" height="200px">
+
 - Office Supplies dominate at 60%.
 - Furniture and Tech come next.
 
@@ -38,7 +45,7 @@
 - No "Low Sales" category — positive outcome.
 
 ## 8. Region-wise Shipping Speed
-(Include matplotlib/seaborn bar plots)
+
 - West leads in both **Late** and **Fast** shipments.
 - Patterns suggest similar distribution regardless of speed.
 
@@ -48,8 +55,3 @@
   - Needs investigation — Second Class should rarely be late.
   - Consider dropping Second Class if no difference from Standard.
 
-## 🔍 Conclusion
-Focus points:
-- Reduce Late Shipping (esp. Standard and Second Class).
-- Balance region-wise operations.
-- Optimize resource allocation toward Office Supplies and Consumer segment.
